@@ -1,0 +1,13 @@
+{
+  "hsToolsmith": true,
+  "title": "github-empty-repo-bootstrap",
+  "pitch": "CLI that turns an empty GitHub account into a polished open-source-ready project skeleton.",
+  "language": "typescript",
+  "category": "CLI",
+  "keyFeatures": [
+    "Generates TS package scaffold (tsconfig, eslint, vitest, build scripts)",
+    "Creates CI workflows (tests, release, changelog, provenance)",
+    "Interactive prompts for package name, license, and publish settings"
+  ],
+  "targetUsers": "New open-source maintainers who want to publish a first npm package with best-practice defaults."
+}
